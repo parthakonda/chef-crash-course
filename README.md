@@ -28,19 +28,19 @@ Anyone who is having software engineering background. No prior knowledge on ruby
 ## Installing
 - Installing Nginx in the remote server
 
-# Networks
+## Networks
 - Understanding networking at highlevel
     - Public network
     - Private network
 
-# Shell Vs tools
+## Shell Vs tools
 - Pros & cons with shell
 - Pros & cons with tools (chef, ansible, puppet, fabric, etc..)
 
-# The Landscape
+## The Landscape
 - Understanding the landscape of the tools
 
-# Chef & Terminology
+## Chef & Terminology
 - Chef Server
 - Chef Workstation
 - Chef Node
@@ -51,17 +51,17 @@ Anyone who is having software engineering background. No prior knowledge on ruby
 - berkshelf
 - supermarket
 
-# Chef Architecture
+## Chef Architecture
 - Understanding how chef works
 
-# Chef tech stack
+## Chef tech stack
 - Understanding different tech stack items of chef
 
-# Setup chef environment
+## Setup chef environment
 - Setup server
 - Setup workstation
 
-# Process of getting started
+## Process of getting started
 - Configuring chef server
     - Creating Org
     - Creating User
@@ -69,7 +69,7 @@ Anyone who is having software engineering background. No prior knowledge on ruby
 - Configuring chef workstation
     - Setup knife
 
-# Understanding chef-repo and basic building blocks
+## Understanding chef-repo and basic building blocks
 - Understanding chef-repo
 - Understanding cookbooks
 - Understanding recipes
@@ -78,23 +78,23 @@ Anyone who is having software engineering background. No prior knowledge on ruby
 - Understanding environments
 - Understanding roles
 
-# Writing your first cookbook
+## Writing your first cookbook
 - Resource identification
 - Syntax
 - Installing nginx on node
 
-# Bootstrapping a new node/target machine
+## Bootstrapping a new node/target machine
 - Understanding kitchen.yml
 - Bootstraping a new node/target machine
 - Understanding run_list
 
-# Using public cookbooks
+## Using public cookbooks
 - Understanding supermarket
 
-# Publishing your cookbook
+## Publishing your cookbook
 - Understanding uploading your cookbook
 
-# Customisation
+## Customisation
 - Misc
 
 
