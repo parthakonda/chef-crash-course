@@ -18,15 +18,15 @@ Anyone who is having software engineering background. No prior knowledge on ruby
 - Provision or create some linux box in Local/vagrant/VM/AWS
 
 ## Connecting
-    - Understanding SSH
-        - Symmetric
-        - Asymmetric
-        - Hashing
+- Understanding SSH
+    - Symmetric
+    - Asymmetric
+    - Hashing
 
-    - SSH from one box to another box
-    - Understanding SCP
+- SSH from one box to another box
+- Understanding SCP
 ## Installing
-    - Installing Nginx in the remote server
+- Installing Nginx in the remote server
 
 # Networks
 - Understanding networking at highlevel
