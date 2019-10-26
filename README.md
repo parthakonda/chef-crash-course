@@ -96,3 +96,8 @@ Anyone who is having software engineering background. No prior knowledge on ruby
 
 # Customisation
 - Misc
+
+
+# Author
+
+ParthaSaradhiKonda<<parthasaradhi.konda@gmail.com>>
