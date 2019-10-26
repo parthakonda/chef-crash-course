@@ -14,18 +14,16 @@ Anyone who is having software engineering background. No prior knowledge on ruby
 
 # Course Contents
 
+# Traditional
 ## Create Play area
 - Provision or create some linux box in Local/vagrant/VM/AWS
 
 ## Connecting
 - Understanding SSH
-    - Symmetric
-    - Asymmetric
-    - Hashing
-
 - SSH from one box to another box
 - Understanding SCP
-## Installing
+
+## Installing nginx
 - Installing Nginx in the remote server
 
 ## Networks
@@ -41,6 +39,7 @@ Anyone who is having software engineering background. No prior knowledge on ruby
 - Understanding the landscape of the tools
 
 ## Chef & Terminology
+- What is chef?
 - Chef Server
 - Chef Workstation
 - Chef Node
