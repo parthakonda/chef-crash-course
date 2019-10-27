@@ -11,6 +11,9 @@ Alice - An employee at google, asked to get a new webserver. And the technical b
 - Install a nginx webserver
 - Start the webserver
 - Test whether the webserver is accepting the requests are not.
+- If webserver is working fine then customize the home page and make sure it displays the following information
+<br>
+`Welcome to WebServer`
 
 ### Thought process
 There are 3 parts in the above requirement. First one is to spin up the new hardware, Second one is to install the nginx and start the server and the third is to test whether the server is accepting requests or not.
