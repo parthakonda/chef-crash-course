@@ -60,7 +60,7 @@ Anyone who is having software engineering background. No prior knowledge on ruby
 - Setup server
 - Setup workstation
 
-## Process of getting started
+## Process of getting started (handshake workstation & Server)
 - Configuring chef server
     - Creating Org
     - Creating User
@@ -68,7 +68,16 @@ Anyone who is having software engineering background. No prior knowledge on ruby
 - Configuring chef workstation
     - Setup knife
 
+# Ruby essentials
+- Setup Ruby
+- Skeleton
+- Variables
+- String formatting
+- methods
+- blocks
+
 ## Understanding chef-repo and basic building blocks
+- Understanding folder structure
 - Understanding chef-repo
 - Understanding cookbooks
 - Understanding recipes
@@ -93,10 +102,10 @@ Anyone who is having software engineering background. No prior knowledge on ruby
 ## Publishing your cookbook
 - Understanding uploading your cookbook
 
-## Customisation
-- Misc
-
+## Misc
+- Using data_bags
+- Using templates
+- knife upload Vs berks upload (dependacy management)
 
 # Author
-
 ParthaSaradhiKonda<<parthasaradhi.konda@gmail.com>>
