@@ -32,11 +32,14 @@ sudo apt-get install nginx -y
 sudo services nginx start
 ```
 
+[TODO]: Add windows installation too.
+
 ## Verifying that nginx got installed or not
 Let's visit the public ip of the server with port 80
 
 http://<public_ip>:80 or http://<public_ip>
 
+[TODO]: Add ip if local setup
 
 ## Customising the home page
 So far, we've successfully installed the nginx. Now let's customize the home page.

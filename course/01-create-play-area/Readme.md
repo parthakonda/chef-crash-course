@@ -27,5 +27,9 @@ Creating play area or spin up the hardware where you want to install the require
 - Give appropriate configuration such as instance type, disk, security groups, network(vpc) and tags.
 - Review & launch the instance
 
+```
+[TODO]: Alternative to ec2
+provide vagrant
+```
 
 The process of spinning up the hardware is called `provisioning infrastructure`. And in the above we've provisioned the ec2 in aws successfully.
